@@ -44,10 +44,10 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://shikhaverma09.github.io/data-analyst-portfolio/#originals"><img src="assets/dashboard.jpg" alt="Sales Performance Dashboard" /></a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### Sales Performance Dashboard
 `Excel` `Pivot Tables` `Pivot Charts` `KPIs`
